@@ -1,0 +1,7 @@
+{
+  "name": "DarsPay Elite",
+  "description": "نظام إدارة تعليمي ذكي للمعلمين يساعد في متابعة الطلاب، الحضور، والمالية مع تحليلات ذكية.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
